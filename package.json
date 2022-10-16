@@ -1,0 +1,26 @@
+{
+  "name": "day-7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "ejs",
+    "express",
+    "mongoose",
+    "dotenv",
+    "nodemon"
+  ],
+  "author": "Akash shit",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.1",
+    "nodemon": "^2.0.20"
+  }
+}
